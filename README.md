@@ -1,0 +1,2 @@
+# wealthapp
+Using nextjs
